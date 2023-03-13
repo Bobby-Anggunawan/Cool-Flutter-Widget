@@ -2,6 +2,7 @@
 
 Navigation
 - **hidden_drawer_menu** : Hidden Drawer Menu is a library for adding a beautiful drawer mode menu feature with perspective animation.
+- *horizontal_card_pager* : Use dynamic and beautiful card view pagers (horizontal direction) to help you create great apps.
 
 Animation
 - **skeletons** : Create skeletons to show something in screen while loading
@@ -17,6 +18,12 @@ Data
 
 ### hidden_drawer_menu
 [hidden_drawer_menu](https://pub.dev/packages/hidden_drawer_menu)
+
+![image](https://github.com/RafaelBarbosatec/hidden_drawer_menu/raw/master/imgs/example.gif)
+
+### horizontal_card_pager
+[horizontal_card_pager](https://user-images.githubusercontent.com/35194820/91016063-21004400-e627-11ea-8899-06f991c8e58c.gif)
+[horizontal_card_pager](https://user-images.githubusercontent.com/35194820/90978412-c4e6e280-e588-11ea-9e5e-6b1f38fc6c30.gif)
 
 ![image](https://github.com/RafaelBarbosatec/hidden_drawer_menu/raw/master/imgs/example.gif)
 
