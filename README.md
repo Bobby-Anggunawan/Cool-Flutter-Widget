@@ -2,8 +2,8 @@
 
 Structure
 - **multi_split_view** : Provides horizontal or vertical multiple split view for Flutter.
-- **accordion** : An expandable Flutter widget list where each item can be expanded or collapsed simply by clicking on the header.
 - **snapping_sheet**: A package that provides a sheet widget that snaps to different vertical & horizontal positions
+- **accordion** : An expandable Flutter widget list where each item can be expanded or collapsed simply by clicking on the header.
 
 Navigation
 - **hidden_drawer_menu** : Hidden Drawer Menu is a library for adding a beautiful drawer mode menu feature with perspective animation.
