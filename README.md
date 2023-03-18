@@ -1,5 +1,8 @@
 # Cool-Flutter-Widget
 
+Structure
+- **multi_split_view** : Provides horizontal or vertical multiple split view for Flutter.
+
 Navigation
 - **hidden_drawer_menu** : Hidden Drawer Menu is a library for adding a beautiful drawer mode menu feature with perspective animation.
 - **horizontal_card_pager** : Use dynamic and beautiful card view pagers (horizontal direction) to help you create great apps.
@@ -10,9 +13,15 @@ Animation
 - **flutter_animate** : Animate other widget
 
 Data
-- **circular_usage_indicator** : A fully customized Circular usage indicator with percentage label or custom label for example to show data usage.
+- **liquid_progress_indicator** : A progress indicator with water-like effect in Flutter. Works similarly to Flutters own ProgressIndicator.
 - **fl_chart** : A highly customizable Flutter chart library that supports Line Chart, Bar Chart, Pie Chart, Scatter Chart, and Radar Chart.
 
+## Structure
+
+### multi_split_view
+[multi_split_view](https://pub.dev/packages/multi_split_view)
+
+![image](https://caduandrade.github.io/multi_split_view/get_started_v1.gif)
 
 ## Navigation
 
@@ -49,10 +58,12 @@ Data
 
 ## Data
 
-### circular_usage_indicator
-[circular_usage_indicator](https://pub.dev/packages/circular_usage_indicator)
+### liquid_progress_indicator
+[liquid_progress_indicator](https://pub.dev/packages/liquid_progress_indicator)
 
-![image](https://user-images.githubusercontent.com/44444254/100633256-4c41b000-3347-11eb-8961-f59385d8b7af.gif)
+![image](https://raw.githubusercontent.com/JordanADavies/liquid_progress_indicator/master/art/liquid_circular_progress_indicator.gif)
+![image](https://raw.githubusercontent.com/JordanADavies/liquid_progress_indicator/master/art/liquid_linear_progress_indicator.gif)
+![image](https://raw.githubusercontent.com/JordanADavies/liquid_progress_indicator/master/art/liquid_custom_progress_indicator.gif)
 
 ### fl_chart
 [fl_chart](https://pub.dev/packages/fl_chart)
