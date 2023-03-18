@@ -2,6 +2,7 @@
 
 Structure
 - **multi_split_view** : Provides horizontal or vertical multiple split view for Flutter.
+- **accordion** : An expandable Flutter widget list where each item can be expanded or collapsed simply by clicking on the header.
 
 Navigation
 - **hidden_drawer_menu** : Hidden Drawer Menu is a library for adding a beautiful drawer mode menu feature with perspective animation.
@@ -22,6 +23,11 @@ Data
 [multi_split_view](https://pub.dev/packages/multi_split_view)
 
 ![image](https://caduandrade.github.io/multi_split_view/get_started_v1.gif)
+
+### accordion
+[accordion](https://pub.dev/packages/accordion)
+
+![image](https://raw.githubusercontent.com/GotJimmy/accordion/master/assets/accordion_demo3.gif)
 
 ## Navigation
 
